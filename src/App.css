@@ -1,0 +1,7 @@
+.loader{
+    background-color: rgb(243, 246, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
